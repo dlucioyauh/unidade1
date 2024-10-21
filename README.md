@@ -135,7 +135,7 @@ Este projeto foi desenvolvido como parte do estudo de Sistemas Cliente/Servidor.
 Este projeto foi uma introdução prática ao desenvolvimento de sistemas cliente/servidor utilizando JSP e o servidor Tomcat. A configuração do servidor, juntamente com a construção de páginas dinâmicas, proporciona uma base sólida para projetos mais avançados no futuro.
 
 ### Autor
-
+```go
 Douglas Lucio - IonKod
 ```
 
